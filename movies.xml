@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/books.xsl"?>  
+<movies>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Horror</genre>
+        <date>3556</date>
+        <price>10</price>
+        <stock>4</stock>
+    </movie>    
+    <movie>
+        <title>The Lord of the Rings</title>
+        <genre>Sci-Fi</genre>
+        <date>2006</date>
+        <price>10</price>
+        <stock>4</stock>
+    </movie>    
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Comedy</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+    <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+     <movie>
+        <title>Friday 13th</title>
+        <genre>Action</genre>
+        <date>2004</date>
+        <price>10</price>
+        <stock>6</stock>
+    </movie>
+</movies>
+
